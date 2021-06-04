@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MyWebSite</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <a href="#" class="login">MyWebSite</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="top-wrapper"><!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <title>MyWebSite</title>
+          <link rel="stylesheet" href="stylesheet.css">
+          
+        </head>
+        <body>
+          <header>
+            <div class="container">
+              <div class="header-left">
+                <a href="#" class="login">MyWebSite</a>
+              </div>
+            </div>
+          </header>
+      
+          <div class="top-wrapper">
+            <div class="container">
+              <h1>Welcome.</h1>
+              <h1>This is who I am.</h1>
+              <p>私の自己紹介ページです。</p>
+              <p>私の特技、趣味、専攻について紹介します。</p>
+              <div class="btn-wrapper">
+                <a href="#" class="btn signup">Instagram</a>
+                <p>Check My Instagram</p>
+              </div>
+            </div>
+          </div>
+          <div class="lesson-wrapper">
+            <div class="container">
+              <div class="heading">
+                <h2>私の紹介</h2>
+              </div>
+              <div class="lessons">
+                <div class="lesson">
+                  <div class="lesson-icon">
+                    <img src="https://images.unsplash.com/photo-1609159970575-3cdbb121b33f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" with=200 height=200>
+                    <p>趣味</p>
+                  </div>
+                  <p class="txt-contents">私の趣味は、世界中を旅することです。ロシアやマケドニアなど馴染みのない国へ旅するのがとても面白いと思います。
+                      コロナがおさまったら、東南アジアの国々を旅してみたいです。
+                  </p>
+                </div>
+                <div class="lesson">
+                  <div class="lesson-icon">
+                    <img src="https://images.unsplash.com/photo-1590959651373-a3db0f38a961?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=937&q=80" with=200 height=200>
+                    <p>特技</p>
+                  </div>
+                  <p class="txt-contents">私の特技はプログラミングです。特にpythonという言語に強いです。すべて独学ですが、わからない部分をネットで調べて応用できるようになりました。
+                      Pythonにはさまざまなライブラリが用意されているので面白いです。
+                  </p>
+                </div>
+                <div class="lesson">
+                  <div class="lesson-icon">
+                    <img src="https://images.unsplash.com/photo-1620706857370-e1b9770e8bb1?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyNHxxUFlzRHp2Sk9ZY3x8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" with=200 height=200>
+                    <p>専攻</p>
+                  </div>
+                  <p class="txt-contents">私の専攻は国際経営学です。グローバルな視点から経営に関する課題などを議論します。因みに私は成績が非常に悪いです。大学の勉強をかなり疎かにしています。その代わりプログラミングができるようになりました。
+                      どっちがいいとは言いません。
+                  </p>
+                </div>
+          
+              </div>
+            </div>
+          </div>
+          <div class="message-wrapper">
+            <div class="container">
+              <div class="heading">
+                <h2>素敵なWebサイト作りをV.codeで学ぼう！</h2>
+                <h3>Coding with V.code Chuo!</h3>
+              </div>
+              <span class="btn message">私のインスタを覗いてみる</span>
+            </div>
+          </div>
+      <footer>
+      
+      </footer>
+        </body>
+      </html>
+      
+      <div class="container">
+        <h1>Welcome.</h1>
+        <h1>This is who I am.</h1>
+        <p>私の自己紹介ページです。</p>
+        <p>私の特技、趣味、専攻について紹介します。</p>
+        <div class="btn-wrapper">
+          <a href="#" class="btn signup">Instagram</a>
+          <p>Check My Instagram</p>
+        </div>
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>私の紹介</h2>
+        </div>
+        <div class="lessons">
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://images.unsplash.com/photo-1609159970575-3cdbb121b33f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" with=200 height=200>
+              <p>趣味</p>
+            </div>
+            <p class="txt-contents">私の趣味は、世界中を旅することです。ロシアやマケドニアなど馴染みのない国へ旅するのがとても面白いと思います。
+                コロナがおさまったら、東南アジアの国々を旅してみたいです。
+            </p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://images.unsplash.com/photo-1590959651373-a3db0f38a961?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=937&q=80" with=200 height=200>
+              <p>特技</p>
+            </div>
+            <p class="txt-contents">私の特技はプログラミングです。特にpythonという言語に強いです。すべて独学ですが、わからない部分をネットで調べて応用できるようになりました。
+                Pythonにはさまざまなライブラリが用意されているので面白いです。
+            </p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="https://images.unsplash.com/photo-1620706857370-e1b9770e8bb1?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyNHxxUFlzRHp2Sk9ZY3x8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" with=200 height=200>
+              <p>専攻</p>
+            </div>
+            <p class="txt-contents">私の専攻は国際経営学です。グローバルな視点から経営に関する課題などを議論します。因みに私は成績が非常に悪いです。大学の勉強をかなり疎かにしています。その代わりプログラミングができるようになりました。
+                どっちがいいとは言いません。
+            </p>
+          </div>
+    
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>素敵なWebサイト作りをV.codeで学ぼう！</h2>
+          <h3>Coding with V.code Chuo!</h3>
+        </div>
+        <span class="btn message">私のインスタを覗いてみる</span>
+      </div>
+    </div>
+<footer>
+
+</footer>
+  </body>
+</html>
