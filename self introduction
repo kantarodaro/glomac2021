@@ -55,8 +55,7 @@
                     <img src="https://images.unsplash.com/photo-1609159970575-3cdbb121b33f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" with=200 height=200>
                     <p>趣味</p>
                   </div>
-                  <p class="txt-contents">私の趣味は、世界中を旅することです。ロシアやマケドニアなど馴染みのない国へ旅するのがとても面白いと思います。
-                      コロナがおさまったら、東南アジアの国々を旅してみたいです。
+                  <p class="txt-contents">私の趣味は、野球観戦です。東京ドームにはよく行くのですが今年は年10回観戦を目指しています。
                   </p>
                 </div>
                 <div class="lesson">
@@ -64,8 +63,7 @@
                     <img src="https://images.unsplash.com/photo-1590959651373-a3db0f38a961?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=937&q=80" with=200 height=200>
                     <p>特技</p>
                   </div>
-                  <p class="txt-contents">私の特技はプログラミングです。特にpythonという言語に強いです。すべて独学ですが、わからない部分をネットで調べて応用できるようになりました。
-                      Pythonにはさまざまなライブラリが用意されているので面白いです。
+                  <p class="txt-contents">私の特技は特にないです。。。
                   </p>
                 </div>
                 <div class="lesson">
